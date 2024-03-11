@@ -1,0 +1,30 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    /* margin: 0px;
+    padding: 0px; */
+    text-align: justify;
+}
+
+/* blockquote {
+    margin: 0px 80px;
+} */
+
+h1 {
+    color: limegreen;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 28px;
+}
+
+h2 {
+    color: limegreen;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+img {
+    border: 5px solid limegreen;
+}
